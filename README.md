@@ -1,6 +1,6 @@
-This is a NeuralNetwork project before I ever took my first class of DataS Science !
+This is a NeuralNetwork project before I ever took my first class of Data Science !
 
-It's an instanciable Full Connected Neural Network made from scratch, with no external package whatsoever. A real standalone made by myself when I had not trained the slightest in Machine Learning.
+It's an instanciable Fully Connected Neural Network made from scratch, with no external package whatsoever. A real standalone made by myself when I had not trained the slightest in Machine Learning.
 
 The program is quite simple, as there are very few classes, and the architecture of the project is flat.
 
@@ -9,7 +9,7 @@ The program is quite simple, as there are very few classes, and the architecture
 - A NeuralNetwork class that can be instantiated with minimal parameters a fully functional Neural Network.
 -  A Main Class that is ready to launch to train 50 Epochs on the whole Mnist Dataset..
 
-it also includes the full Mnist Dataset.
+It also includes the full Mnist Dataset.
 
 Of course, it can be improved a lot ! But back then my first goal was to make it work.
 With my newly acquired skills, I finally found an hour or two to fix it. 
